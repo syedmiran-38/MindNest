@@ -63,5 +63,5 @@ This project is submitted under **SDG 3 – Good Health and Well-being**, aiming
 
 ### Special Thanks
 
-We extend our gratitude to **GDG LIET** for inspiring and supporting us throughout this journey.  
+We extend our gratitude to **GDG LIET** & **MAD Club** for inspiring and supporting us throughout this journey.  
 Together, we strive to make mental well-being a global priority. 🌍
